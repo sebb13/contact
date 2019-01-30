@@ -1,3 +1,2 @@
-# contact
-contact plugin for minim
+# contact plugin for minim
 doc https://minim.webearthquake.com/FR/plugins/contactPlugin.html
